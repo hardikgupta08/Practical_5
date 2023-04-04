@@ -1,0 +1,10 @@
+{
+  "name": "Daily Joke",
+  "description": "Daily Dose of Entertainment. Get New Jokes Everyday!!!",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon" : "jokes.png"
+  }
+}
